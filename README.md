@@ -1,1 +1,1 @@
-Access the app [HERE](https://store--redux.herokuapp.com/products/shoes)
+Access the app [HERE](https://store--redux.herokuapp.com/)
